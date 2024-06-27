@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uçak Rezervasyon Paneli", "Uçak Rezervasyon Paneli.csproj", "{1CE3EF46-8803-4D7C-92EB-3CCBCF42CD9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CE3EF46-8803-4D7C-92EB-3CCBCF42CD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE3EF46-8803-4D7C-92EB-3CCBCF42CD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE3EF46-8803-4D7C-92EB-3CCBCF42CD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE3EF46-8803-4D7C-92EB-3CCBCF42CD9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {882C06F6-AD2A-49AE-8B36-0A048D914FCD}
+	EndGlobalSection
+EndGlobal
